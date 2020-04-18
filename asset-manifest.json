@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sashaPlavi/react_tailwind/static/css/main.40ec6352.chunk.css",
+    "main.js": "/sashaPlavi/react_tailwind/static/js/main.cfc65846.chunk.js",
+    "main.js.map": "/sashaPlavi/react_tailwind/static/js/main.cfc65846.chunk.js.map",
+    "runtime-main.js": "/sashaPlavi/react_tailwind/static/js/runtime-main.dbd03bf5.js",
+    "runtime-main.js.map": "/sashaPlavi/react_tailwind/static/js/runtime-main.dbd03bf5.js.map",
+    "static/js/2.12108a10.chunk.js": "/sashaPlavi/react_tailwind/static/js/2.12108a10.chunk.js",
+    "static/js/2.12108a10.chunk.js.map": "/sashaPlavi/react_tailwind/static/js/2.12108a10.chunk.js.map",
+    "index.html": "/sashaPlavi/react_tailwind/index.html",
+    "precache-manifest.46bbcb6461e086ddaa8bf7da8ba8213d.js": "/sashaPlavi/react_tailwind/precache-manifest.46bbcb6461e086ddaa8bf7da8ba8213d.js",
+    "service-worker.js": "/sashaPlavi/react_tailwind/service-worker.js",
+    "static/css/main.40ec6352.chunk.css.map": "/sashaPlavi/react_tailwind/static/css/main.40ec6352.chunk.css.map",
+    "static/js/2.12108a10.chunk.js.LICENSE.txt": "/sashaPlavi/react_tailwind/static/js/2.12108a10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbd03bf5.js",
+    "static/js/2.12108a10.chunk.js",
+    "static/css/main.40ec6352.chunk.css",
+    "static/js/main.cfc65846.chunk.js"
+  ]
+}
